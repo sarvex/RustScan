@@ -10,4 +10,4 @@
 
 import sys
 
-print('Python script ran with arguments', str(sys.argv))
+print('Python script ran with arguments', sys.argv)
